@@ -1,0 +1,8 @@
+streamlit
+pandas
+torch
+numpy
+scikit-learn
+plotly
+statsmodels
+kaleido
