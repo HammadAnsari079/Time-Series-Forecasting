@@ -38,7 +38,7 @@ statsmodels
 bash
 Copy
 Edit
-git clone https://github.com/harshitv804/Time-Series-Forecasting-LSTM-Streamlit.git
+git clone https://github.com/HammadAnsari079/Time-Series-Forecasting
 cd Time-Series-Forecasting-LSTM-Streamlit
 2. Install Dependencies
 Make sure you have Python 3.7+ and pip installed.
